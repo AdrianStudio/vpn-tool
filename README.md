@@ -26,7 +26,7 @@ cd ~/Desktop/scripts
 #### Step 3:
 🚀 Run the script with:
 ```bash
-sudo -E ./vpn.sh
+sudo ./vpn.sh
 ```
 
 #### Step 4:
@@ -34,35 +34,9 @@ sudo -E ./vpn.sh
 
 ---
 
-### 🧩 Sample Menu
-
-```bash
-══════ VPN & MAC Manager ══════
-1) List interfaces
-2) Random MAC
-3) Manual MAC
-4) Restore MAC
-5) Start OpenVPN
-6) Stop OpenVPN
-9) Exit
-════════════════════════════════
-
-Select option: 5
-Available countries:
- 1) USA
- 2) UK
- 3) GERMANY
- 4) FRANCE
- 5) CANADA
-Select country number: 1
-```
-
----
-
-### Sample
+### 🧩 Sample
 
 <img width="871" height="679" alt="image" src="https://github.com/user-attachments/assets/50888563-0274-4928-8021-4cd06a9fbb58" />
-
 
 ---
 
