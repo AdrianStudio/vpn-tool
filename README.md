@@ -59,18 +59,13 @@ Password: it6b99a
 
 ---
 
-### 🌍 Supported Countries
-| Option | Country  | File Name Example |
-|:------:|:----------|:------------------|
-| 1 | USA 🇺🇸 | usa.ovpn |
-| 2 | UK 🇬🇧 | uk.ovpn |
-| 3 | Germany 🇩🇪 | germany.ovpn |
-| 4 | France 🇫🇷 | france.ovpn |
-| 5 | Canada 🇨🇦 | canada.ovpn |
+### 🧩 Sample
+
+<img width="861" height="438" alt="image" src="https://github.com/user-attachments/assets/9695ba12-606e-456a-87bc-3c410c8ae71e" />
 
 ---
 
-### 🧩 Sample Output
+### 🧩 Result
 
 <img width="859" height="544" alt="image" src="https://github.com/user-attachments/assets/522b67c4-fd13-4a44-aae9-55951c50e466" />
 
