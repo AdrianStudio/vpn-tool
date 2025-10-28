@@ -1,49 +1,25 @@
-# VPN Tool
+# VPN-Tool 🌐
 
-**Made with:** 🐚 Bash
+**VPN & MAC Manager** — a simple, interactive tool for managing VPN connections and MAC addresses in Kali Linux or any Debian-based system.
 
----
+### Features 🚀
+- Change or randomize your MAC address  
+- Restore your original MAC address  
+- Start and stop OpenVPN connections with selectable countries  
+- Clean and user-friendly TUI menu  
 
-### 🌐 VPN Tool Functionalities
-- Manage and randomize MAC addresses easily
-- Start or stop VPN connections with OpenVPN
-- Choose from multiple VPN servers by country
-- Automatically log VPN session activity
+### Available Countries 🌍
+- USA 🇺🇸  
+- UK 🇬🇧  
+- GERMANY 🇩🇪  
+- FRANCE 🇫🇷  
+- CANADA 🇨🇦  
 
----
+### Preview 🖥️
 
-### ⚙️ VPN Tool Instructions
 
-#### Step 1:
-🖥️ Open your terminal
 
-#### Step 2:
-📁 Locate to the directory where the script is stored:
-```bash
-cd ~/Desktop/scripts
-```
+### Author ✍️  
+Created with ❤️ by **AdrianStudio**  
 
-#### Step 3:
-🚀 Run the script with:
-```bash
-sudo ./vpn.sh
-```
-
-#### Step 4:
-🌍 Choose an option from the menu to manage your MAC address or connect to a VPN.
-
----
-
-### 🧩 Sample
-
-<img width="871" height="679" alt="image" src="https://github.com/user-attachments/assets/50888563-0274-4928-8021-4cd06a9fbb58" />
-
----
-
-### 🧑‍💻 Author
-Developed by **AdrianStudio**
-
----
-
-### 🛡️ License
-© 2025 AdrianStudio — All rights reserved.
+© 2025 AdrianStudio. All rights reserved.
